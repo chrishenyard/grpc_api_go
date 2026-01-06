@@ -13,7 +13,7 @@ import (
 
 	emptypb "google.golang.org/protobuf/types/known/emptypb"
 
-	pb "grpc-jobs/protos"
+	pb "github.com/chrishenyard/grpc_api_go/protos"
 )
 
 type jobServer struct {

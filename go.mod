@@ -1,4 +1,4 @@
-module grpc-jobs
+module github.com/chrishenyard/grpc_api_go
 
 go 1.24.0
 

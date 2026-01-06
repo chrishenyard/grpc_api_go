@@ -9,7 +9,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 
-	pb "grpc-jobs/protos"
+	pb "github.com/chrishenyard/grpc_api_go/protos"
 )
 
 func main() {
